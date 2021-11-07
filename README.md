@@ -1,11 +1,5 @@
 # hello-world
-//It is just my first code on GitHub.
+It is just my first repository on GitHub.
 
-#include <stdio.h>
-int main()
-{
-  printf("hello world\n");
-  return 0;
-}
-
+# Email realcolinmaclaurin@gmail.com
 # Created by 提醒别学小助手
